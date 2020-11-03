@@ -10,6 +10,6 @@ de medición quiere decir que el despliegue debera ser desde 00.00 V hasta 99.00
 Debe utilizarse un ADC de al menos 10 bits para la resolución requerida.
 # Especificaciones de Diseño:
 El circuito debe constar de las siguientes etapas:
-• Etapa de rectificación (para datos AC)
-• Etapa de conversión de datos.
-• Etapa de despliegue de datos
+* Etapa de rectificación (para datos AC) 
+* Etapa de conversión de datos 
+* Etapa de despliegue de datos 
